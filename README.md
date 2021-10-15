@@ -3,8 +3,9 @@
 Instruções para execução:
 
 1) Baixar o notebook python (ou utilizar o link do google colab para simular o ambiente de execução).
-2) Fazer o upload dos datasets no mesmo diretório do notebook e criar um arquivo db.sqlite.
-3) Executar célula a célula do notebook e observar os resultados do mesmo.
+2) Caso não utilize o google colab, é necessário configurar o ambiente do jupyter notebook.
+3) Fazer o upload dos datasets no mesmo diretório do notebook e criar um arquivo db.sqlite.
+4) Executar célula a célula do notebook e observar os resultados do mesmo.
 
 As respostas teóricas também estão no notebook.
 
